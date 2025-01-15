@@ -21,5 +21,5 @@ I ran this code in wsl2
 
 
 
-## Referenced paper
-- https://arxiv.org/abs/2412.06078
+## Referenc
+1. https://arxiv.org/abs/2412.06078
