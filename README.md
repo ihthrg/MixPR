@@ -2,7 +2,7 @@
 
 I ran this code in wsl2
 
-## operating environment
+## Operating environment
 
 - wsl2
   - Ubuntu 20.04.6 LTS
